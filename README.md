@@ -21,6 +21,10 @@ Output Flow for Anonymization and Deidentification
 ![deiden](https://github.com/Nikhilkohli1/De-identification-Pipeline/blob/main/Task%201%20-%20aws/deidentify.png)
 
 
+## Task 2 - Python Performance comparison between notebook & scripts
+
+![sc](https://github.com/Nikhilkohli1/De-identification-Pipeline/blob/main/Task%202/rm_graph.png)
+
 ## Task 3 - Deidentification using GCP 
 
  This is a reference implementation of an end to end data tokenization solution designed to migrate sensitive data in BigQuery.
