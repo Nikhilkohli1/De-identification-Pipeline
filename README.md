@@ -12,7 +12,7 @@ This architecture uses the following services:
 2. AWS Step Functions and AWS Lambda to coordinate and execute the workflow
 3. Amazon DynamoDB to store the de-identified mapping
 
-https://github.com/Nikhilkohli1/De-identification-Pipeline/blob/main/Task%201%20-%20aws/identify-sensitive-data-1.gif
+![arch](https://github.com/Nikhilkohli1/De-identification-Pipeline/blob/main/Task%201%20-%20aws/identify-sensitive-data-1.gif)
 
 Output Flow for Anonymization and Deidentification
 
